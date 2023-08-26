@@ -90,3 +90,5 @@ The computer chose paper.
 You win.''')
 else:
     print("You choose a invalid number. You lose LOOSER!")
+
+                                                                                                                                                                    # pm-dev93
